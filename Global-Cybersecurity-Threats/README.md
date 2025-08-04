@@ -37,6 +37,15 @@ This project explores patterns in global cybersecurity threats using data from 2
 ### 🧭 Dashboard Overview
 ![Cybersecurity Dashboard](images/Dashboard-Global-Cybersecurity-Threats.png)
 
+📌 Conclusion
+This dashboard reveals significant cybersecurity trends across geography, industry, and attack type between 2015 and 2024.
+
+While Phishing and DDoS remain the most frequent attacks, Man-in-the-Middle and DDoS cause the highest financial damage per incident.
+
+High-risk countries and vulnerable sectors are clearly identified to aid proactive planning.
+
+This analysis enables cybersecurity leaders to prioritize mitigation efforts, allocate security budgets strategically, and adapt to emerging threat patterns with greater confidence.
+
 
 ## 📌 Dataset Source
 [Global Cybersecurity Threats (2015–2024) – Kaggle](https://www.kaggle.com/datasets/atharvasoundankar/global-cybersecurity-threats-2015-2024)
