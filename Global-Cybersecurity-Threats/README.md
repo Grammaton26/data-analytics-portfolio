@@ -23,7 +23,7 @@ This project explores patterns in global cybersecurity threats using data from 2
 - Most affected industries: **IT, Banking, Healthcare**
 - Highest financial losses: **DDoS** and **Man-in-the-Middle** attacks
 ### 📈 Cyberattack Frequency Trends
-![Cyberattack Trends](images/attack_trends.png)
+![Cyberattack Trends](images/attack-trends.png)
 
 ### 🌍 Most Targeted Countries
 ![Country Heatmap](images/country-map.png)
@@ -33,7 +33,6 @@ This project explores patterns in global cybersecurity threats using data from 2
 
 ### 💸 Average Financial Loss by Attack Type
 ![Financial Loss](images/financial-loss.png)
-
 
 ## 📌 Dataset Source
 [Global Cybersecurity Threats (2015–2024) – Kaggle](https://www.kaggle.com/datasets/atharvasoundankar/global-cybersecurity-threats-2015-2024)
