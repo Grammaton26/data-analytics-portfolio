@@ -33,7 +33,7 @@ How can financial institutions predict serious loan default risk using borrower 
 May 2025
 
 ## 📄 References
-- Freshcorn, B. (2025). _Give Me Some Credit: 2011 Competition data_ [Data set]. Kaggle. https://www.kaggle.com/datasets/brycecf/give-me-some-credit-dataset
+- Freshcorn, B. (2025). _Give me some credit: 2011 Competition data_ [Data set]. Kaggle. https://www.kaggle.com/datasets/brycecf/give-me-some-credit-dataset
 - Zhu et al. (2023), Addy et al. (2024), McCarthy et al. (2022), and others. Full citations included in the report.
 
 
