@@ -19,8 +19,11 @@ How can financial institutions predict serious loan default risk using borrower 
 - Most predictive features: `NumberOfTimes90DaysLate`, `RevolvingUtilizationOfUnsecuredLines`, and `NumberOfTime60-89DaysPastDueNotWorse`.
 - Both models achieved lift values >6 in the top decile — enabling high-precision targeting of risk-prone borrowers.
 
-### 📉 Model Performance Example:
+### 📉 Model Performance Examples:
+### Decision Tree Lift Chart
 ![Decision Tree Lift Chart](images/Decision_Tree_Lift.png)
+
+### Logistic Regression Lift Chart
 ![Logistic Regression Lift Chart](images/Logistic_Regression_Lift.png)
 
 ## 📈 Outcomes
