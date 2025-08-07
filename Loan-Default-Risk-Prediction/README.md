@@ -21,7 +21,6 @@ How can financial institutions predict serious loan default risk using borrower 
 
 ### 📉 Model Performance Example:
 ![Decision Tree Lift Chart](images/decision-tree-lift.png)
-![Logistic Regression Lift Chart](images/logistic_regression_lift.png)
 
 ## 📈 Outcomes
 - Logistic regression provides strong interpretability and regulatory justification.
