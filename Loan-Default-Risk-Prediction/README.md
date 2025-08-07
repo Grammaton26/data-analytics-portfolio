@@ -21,7 +21,7 @@ How can financial institutions predict serious loan default risk using borrower 
 
 ### 📉 Model Performance Example:
 ![Decision Tree Lift Chart](images/decision-tree-lift.png)
-![Logistic Regression Lift Chart](images/Logistic_Regression_Cumulative_Lift.png)
+![Logistic Regression Lift Chart](images/logistic_regression_lift.png)
 
 ## 📈 Outcomes
 - Logistic regression provides strong interpretability and regulatory justification.
@@ -37,8 +37,6 @@ How can financial institutions predict serious loan default risk using borrower 
 ## 📅 Completed
 May 2025
 
-## 📄 References
-- Zhu et al. (2023), Addy et al. (2024), McCarthy et al. (2022), and others. Full citations included in the report.
 
 ## 📄 References
 - Freshcorn, B. (2025). _Give me some credit: 2011 Competition data_ [Data set]. Kaggle. https://www.kaggle.com/datasets/brycecf/give-me-some-credit-dataset
