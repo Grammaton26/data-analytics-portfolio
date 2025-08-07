@@ -10,7 +10,7 @@ How can financial institutions predict serious loan default risk using borrower 
 - **Skills**: Data Imputation, Outlier Handling, Data Transformation, Logistic Regression, Decision Tree Modeling, Model Evaluation (ASE, Lift, Misclassification)
 
 ## 🧾 Dataset
-- Source: [Give Me Some Credit Dataset – Kaggle](https://www.kaggle.com/datasets/brycecf/give-me-some-credit-dataset) by Bryce Freshcorn  
+- Source: [Give Me Some Credit Dataset – Kaggle](https://www.kaggle.com/datasets/brycecf/give-me-some-credit-dataset)  
 - Target variable: `SeriousDlqin2yrs` (1 = default, 0 = no default)
 
 ## ✅ Key Insights
@@ -20,7 +20,7 @@ How can financial institutions predict serious loan default risk using borrower 
 - Both models achieved lift values >6 in the top decile — enabling high-precision targeting of risk-prone borrowers.
 
 ### 📉 Model Performance Example:
-![Decision Tree Lift Chart](images/Decision-Tree-Lift.png)
+![Decision Tree Lift Chart](images/Decision_Tree_Lift.png)
 
 ## 📈 Outcomes
 - Logistic regression provides strong interpretability and regulatory justification.
