@@ -20,7 +20,7 @@ How can financial institutions predict serious loan default risk using borrower 
 - Both models achieved lift values >6 in the top decile — enabling high-precision targeting of risk-prone borrowers.
 
 ### 📉 Model Performance Example:
-![Decision Tree Lift Chart](images/decision-tree-lift.png)
+![Decision Tree Lift Chart](images/Decision-Tree-Lift.png)
 
 ## 📈 Outcomes
 - Logistic regression provides strong interpretability and regulatory justification.
