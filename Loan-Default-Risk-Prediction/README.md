@@ -6,11 +6,11 @@ This project explores the use of predictive modeling to identify borrowers likel
 How can financial institutions predict serious loan default risk using borrower characteristics such as income, credit history, and payment behavior?
 
 ## 📊 Tools & Skills Applied
-- **Tools**: SAS Enterprise Miner, Excel
+- **Tools**: SAS Enterprise Miner, Excel  
 - **Skills**: Data Imputation, Outlier Handling, Data Transformation, Logistic Regression, Decision Tree Modeling, Model Evaluation (ASE, Lift, Misclassification)
 
 ## 🧾 Dataset
-- Source: [Give Me Some Credit Dataset – Kaggle](https://www.kaggle.com/datasets/brycecf/give-me-some-credit-dataset)
+- Source: [Give Me Some Credit Dataset – Kaggle](https://www.kaggle.com/datasets/brycecf/give-me-some-credit-dataset) by Bryce Freshcorn  
 - Target variable: `SeriousDlqin2yrs` (1 = default, 0 = no default)
 
 ## ✅ Key Insights
@@ -19,6 +19,10 @@ How can financial institutions predict serious loan default risk using borrower 
 - Most predictive features: `NumberOfTimes90DaysLate`, `RevolvingUtilizationOfUnsecuredLines`, and `NumberOfTime60-89DaysPastDueNotWorse`.
 - Both models achieved lift values >6 in the top decile — enabling high-precision targeting of risk-prone borrowers.
 
+### 📉 Model Performance Example:
+![Decision Tree Lift Chart](images/decision-tree-lift.png)
+![Logistic Regression Lift Chart](images/Logistic_Regression_Cumulative_Lift.png)
+
 ## 📈 Outcomes
 - Logistic regression provides strong interpretability and regulatory justification.
 - Decision tree enhances segmentation, automation, and model clarity for credit scoring teams.
@@ -26,11 +30,15 @@ How can financial institutions predict serious loan default risk using borrower 
 
 ## 📂 Project Downloads
 
-📘 [Download Project Summary Report (Word Doc)](project-files/Loan_Default_Risk_Summary.docx)  
-📊 [Download SAS Process Flow Screenshots (PDF)](project-files/Loan_Default_SAS_Flows.pdf)  
+📘 [Download Project Summary Report (Word Doc)](Project-Files/Predictive_Analytics_for_Loan_Default_Risk_A_SAS_Enterprise_Miner_Approach.docx)  
+📘 [Download User Training Manual (Word Doc)](Project-Files/User_Training_Manual_Loan_Default_Project.docx)  
+📊 [Download SAS Process Flow Screenshots (PDF)](Project-Files/Loan_Default_SAS_Model_Screenshots.pdf)
 
 ## 📅 Completed
 May 2025
+
+## 📄 References
+- Zhu et al. (2023), Addy et al. (2024), McCarthy et al. (2022), and others. Full citations included in the report.
 
 ## 📄 References
 - Freshcorn, B. (2025). _Give me some credit: 2011 Competition data_ [Data set]. Kaggle. https://www.kaggle.com/datasets/brycecf/give-me-some-credit-dataset
