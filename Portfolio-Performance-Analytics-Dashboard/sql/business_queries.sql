@@ -66,7 +66,6 @@ ORDER BY breakout_days DESC;
 
 -- Business Question 5
 -- Risk vs Return Summary
--- To be used for Tableau charts.
 
 SELECT
     c.ticker,
