@@ -91,45 +91,14 @@ The processed data was stored in PostgreSQL using a dimensional structure:
 
 ## SQL Analysis Results
 
-### Total Return by Stock
+### Business Question Results
 
-| Ticker | Total Return (%) |
-| ------ | ---------------: |
-| NVDA   |          1347.68 |
-| GOOGL  |           265.43 |
-| AMZN   |           195.97 |
-| MSFT   |           131.24 |
-| ASML   |           113.37 |
-
-### Average Volatility
-
-| Ticker | Volatility (%) |
-| ------ | -------------: |
-| NVDA   |           2.97 |
-| ASML   |           2.36 |
-| AMZN   |           1.93 |
-| GOOGL  |           1.84 |
-| MSFT   |           1.39 |
-
-### Maximum Drawdown
-
-| Ticker | Worst Drawdown (%) |
-| ------ | -----------------: |
-| ASML   |             -45.48 |
-| NVDA   |             -36.88 |
-| AMZN   |             -30.88 |
-| GOOGL  |             -29.81 |
-| MSFT   |             -23.73 |
-
-### Volume Breakout Days
-
-| Ticker | Breakout Days |
-| ------ | ------------: |
-| ASML   |           251 |
-| MSFT   |           248 |
-| GOOGL  |           246 |
-| NVDA   |           245 |
-| AMZN   |           243 |
+| Metric             | Top Stock |    Value |
+| ------------------ | --------- | -------: |
+| Highest Return     | NVDA      | 1347.68% |
+| Highest Volatility | NVDA      |    2.97% |
+| Largest Drawdown   | ASML      |  -45.48% |
+| Most Breakout Days | ASML      |      251 |
 
 ---
 
@@ -170,30 +139,3 @@ The dashboard provides an interactive view of stock performance and risk charact
 * GitHub project documentation
 
 ---
-
-## Repository Structure
-
-```text
-Portfolio-Performance-Analytics-Dashboard/
-│
-├── data/
-│   └── portfolio_stock_metrics.csv
-│
-├── sql/
-│   ├── create_tables.sql
-│   ├── load_data.sql
-│   └── business_queries.sql
-│
-├── images/
-│   ├── dashboard_portfolio_analytics.png
-│   ├── cumulative_return.png
-│   ├── risk_return_profile.png
-│   ├── maximum_drawdown.png
-│   ├── average_volatility.png
-│   └── volume_breakout_days.png
-│
-├── notebook/
-│   └── portfolio_analytics.ipynb
-│
-└── README.md
-```
