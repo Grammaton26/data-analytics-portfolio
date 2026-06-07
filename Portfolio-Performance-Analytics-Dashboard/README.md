@@ -139,3 +139,14 @@ The dashboard provides an interactive view of stock performance and risk charact
 * GitHub project documentation
 
 ---
+
+## Reproducing the Project
+
+1. Run the Python notebook to collect stock data and generate features.
+2. Export the dataset to CSV.
+3. Execute the SQL scripts in PostgreSQL:
+   - create_tables.sql
+   - load_data.sql
+   - business_queries.sql
+4. Connect Tableau to PostgreSQL.
+5. Build the dashboard using the portfolio_fact table.
