@@ -127,6 +127,7 @@ The dashboard provides an interactive view of stock performance and risk charact
 * Microsoft demonstrated the lowest volatility at 1.39% and the smallest drawdown at -23.73%.
 * ASML experienced the largest drawdown at -45.48%, indicating the greatest downside risk.
 * Breakout-volume activity was relatively consistent across all five stocks, ranging from 243 to 251 breakout days.
+* Alphabet (GOOGL) delivered the second-highest cumulative return at 265.43% while maintaining moderate volatility of 1.84%, demonstrating a favorable balance   between growth and risk.
 
 ---
 
