@@ -197,8 +197,3 @@ Portfolio-Performance-Analytics-Dashboard/
 │
 └── README.md
 ```
-
-## Author
-
-Data Analytics Portfolio Project demonstrating Python, SQL, PostgreSQL, and Tableau skills through financial performance and risk analysis.
-
